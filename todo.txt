@@ -1,0 +1,36 @@
+TODO:
+
+* SCREENS
+	* CANT THINK OF SPECIFIC CRAP...
+* NETWORK AND REPLAY SUPPORT LOLZ...
+* SOUND EFFECTS - LOL
+* DISTRIBUTION (Hide general files and decompress with the launcher)
+* REPLAY SYSTEM KINDA SLOW...
+	* KEY SYSTEM IS SET INSTEAD OF LIST
+	* PICKLE? THEN ZIP DA REPLAY 
+* BLOCK ACTIVATE ON HIT; CAN'T BLOCK WHEN ATTACKING...
+* EXTEND 2P COLORS FOR EVERYONE
+* OTHER TYPES OF PROJECTILES
+	* Diag-right throw with gravity projectile*
+	* Bouncing low projectile
+	* Projectile to Projectile collisions
+	* Air projectiles for Li
+* MAP wxPython controls to Ika controls
+* Landing *Dis allow attacks for a few frames...*
+* Useless sysobj
+	* Double jumping
+	* Ground dust at jumping
+* Divide air attacks and crouch from other attacks
+* Fix Nancy's super again
+* Backwards timer glitch...
+* Cancels (NOTE: A+B -> Make a new button & call it Z and it stands for A+B)
+* Fix push top...
+* MAX of two presses of right/left for main menu
+* Joystick should not stop polling after first time
+* Perhaps put an error message when ever no joystick is found, and the keys say joystick...
+* Add behavior, if two attacks collide
+* NEW KEY CHECKER!
+* Version history as TEXT CONTROL in the GUI LOADER.
+* Kyo's hurrican kick
+= Reactivate VS screen sometimes and loading as well
+!! 
